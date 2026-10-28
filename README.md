@@ -1,3 +1,5 @@
 # fa26_ice3_joshuaj
 
--TBD
+- **Jonathan Joshua**: Favorite movie: Thor Ragnarok
+
+
